@@ -1,70 +1,54 @@
 body {
-
 	background-color: lightgray;
 }
 
 h1 {
-
 	font-size: 32px;
 	text-align: center;
 }
 
 h2, h3 {
-
 	text-align: center;
 }
 
 p {
-
 	font-size: 17px;
 }
 
 .profielPanel {
-
 	width: 50%;
-
 	margin: 5px 0px 0px 25%;
 	padding: 8px 8px 0px 8px;
-
 	border: 2px solid black;
 	border-radius: 10px;
 	background-color: white;
-
 	position: absolute;
 }
 
 .profielFoto {
-
 	width: 230px;
 	height: 380px;
-
 	border: 5px solid black;
 	border-radius: 10px;
-
 	margin: 2px 10px 10px 2px;
-
 	float: left;
 }
 
 ul {
-
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
 
 li {
-
 	float: left;
 }
 
 li a {
 	font-size: 45px;
-
 	border-style: solid solid solid none;
 	border-color: black;
 	border-width: 0.5px;
-
 	display: block;
 	color: black;
 	text-decoration: none;
@@ -72,50 +56,39 @@ li a {
 }
 
 li a:hover{
-	
 	color: gray;
 }
 
 .menuButtons {
-
 	border-style: solid none solid solid;
 	border-color: black;
 	border-width: 0.5px;
-
 	position: absolute;
-
 	top: 64%;
 	left: 41.2%;
 }
 
 .textPanel1 {
-
 	width: 22%;
 	margin: 10px 10px 10px 10%;
 	padding: 8px;
-
 	border: 2px solid black;
 	background-color: white;
-
 	position: absolute;
 	top: 80%;
 }
 
 .textPanel2 {
-
 	width: 22%;
 	margin: 10px 10px 10px 38.2%;
 	padding: 8px;
-
 	border: 2px solid black;
 	background-color: white;
-
 	position: absolute;
 	top: 80%;
 }
 
 .textPanel3 {
-
 	width: 22%;
 	margin: 10px 0px 10px 10px;
 	padding: 8px;
